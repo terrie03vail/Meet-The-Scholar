@@ -1,0 +1,2 @@
+ # Display the credit warning
+    print("\nIMPORTANT NOTICE: If you use the PowerPoint theme and reference from this repository, please give credit to the original creator. Acknowledging the source supports the community and is greatly appreciated!")
